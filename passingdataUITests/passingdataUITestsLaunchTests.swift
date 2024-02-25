@@ -1,13 +1,13 @@
 //
-//  appofthedayUITestsLaunchTests.swift
-//  appofthedayUITests
+//  passingdataUITestsLaunchTests.swift
+//  passingdataUITests
 //
-//  Created by Harnoor Singh on 2/17/24.
+//  Created by Harnoor Singh on 2/24/24.
 //
 
 import XCTest
 
-final class appofthedayUITestsLaunchTests: XCTestCase {
+final class passingdataUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

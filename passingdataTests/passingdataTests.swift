@@ -1,14 +1,14 @@
 //
-//  appofthedayTests.swift
-//  appofthedayTests
+//  passingdataTests.swift
+//  passingdataTests
 //
-//  Created by Harnoor Singh on 2/17/24.
+//  Created by Harnoor Singh on 2/24/24.
 //
 
 import XCTest
-@testable import appoftheday
+@testable import passingdata
 
-final class appofthedayTests: XCTestCase {
+final class passingdataTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
